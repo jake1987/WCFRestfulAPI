@@ -1,0 +1,7 @@
+E:\Program\Local\WCFTest\WCFTest.Service\bin\WCFTest.Service.dll
+E:\Program\Local\WCFTest\WCFTest.Service\bin\WCFTest.Service.pdb
+E:\Program\Local\WCFTest\WCFTest.Service\bin\WCFTest.Model.dll
+E:\Program\Local\WCFTest\WCFTest.Service\bin\WCFTest.Model.pdb
+E:\Program\Local\WCFTest\WCFTest.Service\obj\Debug\WCFTest.Service.csprojResolveAssemblyReference.cache
+E:\Program\Local\WCFTest\WCFTest.Service\obj\Debug\WCFTest.Service.dll
+E:\Program\Local\WCFTest\WCFTest.Service\obj\Debug\WCFTest.Service.pdb

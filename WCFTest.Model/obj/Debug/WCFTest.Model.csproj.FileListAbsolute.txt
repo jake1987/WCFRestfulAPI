@@ -1,0 +1,5 @@
+E:\Program\Local\WCFTest\WCFTest.Model\bin\Debug\WCFTest.Model.dll
+E:\Program\Local\WCFTest\WCFTest.Model\bin\Debug\WCFTest.Model.pdb
+E:\Program\Local\WCFTest\WCFTest.Model\obj\Debug\WCFTest.Model.dll
+E:\Program\Local\WCFTest\WCFTest.Model\obj\Debug\WCFTest.Model.pdb
+E:\Program\Local\WCFTest\WCFTest.Model\obj\Debug\WCFTest.Model.csprojResolveAssemblyReference.cache
